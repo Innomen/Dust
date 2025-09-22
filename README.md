@@ -20,6 +20,8 @@ Unlike typical system cleaners that only remove orphaned dependencies, Dust iden
 
 ## Screenshots
 
+<img width="1211" height="739" alt="dust Screenshot_20250921_205310" src="https://github.com/user-attachments/assets/5395e2f9-b035-4f5f-b19a-87975c64ec2c" />
+
 *The main interface showing packages with their "dust levels" - redder bars indicate longer periods without use*
 
 ## Quick Start
